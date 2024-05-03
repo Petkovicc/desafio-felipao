@@ -1,1 +1,3 @@
-console.log("Hades domina");
+let nome = "Hadesito"
+
+console.log(nome)
